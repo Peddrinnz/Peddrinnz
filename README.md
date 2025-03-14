@@ -1,4 +1,5 @@
 <h2>Olá, meu nome é Pedro Ernesto 👋</h2>
+<h3>Bem-vindo ao meu perfil no GitHub</h3>
 <p>- 👨‍🎓 No momento estou estudando Análise e Desenvolvimento de Sistemas (ADS) no IFMS, atualmente no 6º semestre.</p>
 <p>- 🧑‍💻 Tenho um forte interesse em tecnologia e inovação, com experiência em programação, sendo JavaScript minha linguagem favorita.</p>
 
@@ -36,7 +37,8 @@
 <div> 
   <a href="https://instagram.com/Peddrinnz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/516626032372219947" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "pedroesnarriaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:pedroesnarriaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-ernesto-bernardo-esnarriaga-27bb44296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<hr>
