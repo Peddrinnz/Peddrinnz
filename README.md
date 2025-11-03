@@ -1,6 +1,6 @@
 <h2>Olá, meu nome é Pedro Ernesto 👋</h2>
 <h3>Bem-vindo ao meu perfil no GitHub</h3>
-<p>- 👨‍🎓 No momento estou estudando Análise e Desenvolvimento de Sistemas (ADS) no IFMS, atualmente no 6º semestre.</p>
+<p>- 👨‍🎓 Desenvolvedor Júnior | Recém-formado em Análise e Desenvolvimento de Sistemas.</p>
 <p>- 🧑‍💻 Tenho um forte interesse em tecnologia e inovação, com experiência em programação, sendo JavaScript minha linguagem favorita.</p>
 
 ##
